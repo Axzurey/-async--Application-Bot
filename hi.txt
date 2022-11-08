@@ -1,0 +1,2 @@
+joinURL:
+https://discord.com/api/oauth2/authorize?client_id=1038879399996575834&permissions=8&scope=bot
